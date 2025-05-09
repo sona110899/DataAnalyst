@@ -13,6 +13,7 @@ The dashboard covers the following key metrics and visualizations:
 - Total Booking Value
 - Booking status breakdown (Success, Cancelled by Customer, Cancelled by Driver, Incomplete)
 - Trends over time (Daily/Monthly booking trends)
+![Overall](https://github.com/user-attachments/assets/058f047f-2a76-4b50-9935-3c0b7205e741)
 
 ### 2. **Cancellation Analysis**
 - Top reasons for cancellations by customers and drivers
